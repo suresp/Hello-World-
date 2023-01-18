@@ -1,3 +1,3 @@
 # Hello-World
 
-first project of mine
+trying first time in Github
